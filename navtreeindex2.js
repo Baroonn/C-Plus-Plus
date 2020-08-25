@@ -1,7 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d6/d80/double__hash__hash__table_8cpp.html#af4981819aae8bc7e7beeaef02615e30d":[8,0,5,1,10],
-"d6/d9d/large__factorial_8cpp.html":[8,0,7,16],
 "d6/d9d/large__factorial_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[8,0,7,16,0],
 "d6/d9d/large__factorial_8cpp.html#a3f93b60e229b6683e24c4754a7106ee8":[8,0,7,16,1],
 "d6/d9d/large__factorial_8cpp.html#a76aae4778fbe89a3d59fd61fbc050cfa":[8,0,7,16,2],
@@ -122,10 +120,10 @@ var NAVTREEINDEX2 =
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,20,2],
 "d8/d6c/line__segment__intersection_8cpp.html":[8,0,2,0],
 "d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,0,2],
-"d8/d77/namespacemachine__learning.html":[7,0,5],
 "d8/d77/namespacemachine__learning.html":[6,0,7],
-"d8/d89/namespacelinear__probing.html":[6,0,5],
+"d8/d77/namespacemachine__learning.html":[7,0,5],
 "d8/d89/namespacelinear__probing.html":[7,0,4],
+"d8/d89/namespacelinear__probing.html":[6,0,5],
 "d8/d8a/exponential__search_8cpp.html":[8,0,12,1],
 "d8/d8a/exponential__search_8cpp.html#a0f697e2a3b5193324ab84bd4045088f7":[8,0,12,1,0],
 "d8/d8a/exponential__search_8cpp.html#a67e9c84b4e2eb30e3c5170eabfbb363d":[8,0,12,1,2],
@@ -249,5 +247,7 @@ var NAVTREEINDEX2 =
 "da/d5a/class_complex.html#a312e4b19146128408fb06e0150b0faf6":[7,0,11,11],
 "da/d5a/class_complex.html#a36739619a07b5478bcd8a28ad2f8b7da":[7,0,11,7],
 "da/d5a/class_complex.html#a3cfc522c782726f49ee20af17b77f867":[7,0,11,0],
-"da/d5a/class_complex.html#a466cd7b664cc6a864937ceb3dead1323":[7,0,11,1]
+"da/d5a/class_complex.html#a466cd7b664cc6a864937ceb3dead1323":[7,0,11,1],
+"da/d5a/class_complex.html#a776d595d5a1b576e9136cbc6bac0589c":[7,0,11,12],
+"da/d5a/class_complex.html#a820afcbb330df716577459d7a3aa3a1c":[7,0,11,6]
 };
