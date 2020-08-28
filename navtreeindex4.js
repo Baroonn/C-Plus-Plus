@@ -1,6 +1,5 @@
 var NAVTREEINDEX4 =
 {
-"dd/d12/vigenere__cipher_8cpp.html#a3cfc3f9b20a0f230a2fcefd31dc6848e":[8,0,0,2,0],
 "dd/d12/vigenere__cipher_8cpp.html#a6bd3880ea6820c232c1eddf47553c257":[8,0,0,2,1],
 "dd/d12/vigenere__cipher_8cpp.html#ae1a3968e7947464bee7714f6d43b7002":[8,0,0,2,3],
 "dd/d12/vigenere__cipher_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,0,2,2],
@@ -123,9 +122,9 @@ var NAVTREEINDEX4 =
 "de/d9b/prime__numbers_8cpp.html#a3b91f208e8365c95a295cfe3e67df5c3":[8,0,7,24,1],
 "de/d9b/prime__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,24,0],
 "de/d9d/classdata__structures_1_1linked__list_1_1link.html":[7,0,2,0,0],
+"de/d9d/classdata__structures_1_1linked__list_1_1link.html#a7bc8fdd30ee0bd3dd3ee021479323c3f":[7,0,2,0,0,1],
 "de/d9d/classdata__structures_1_1linked__list_1_1link.html#aacfd8d12431964dc04a839f357c7bcc1":[7,0,2,0,0,2],
 "de/d9d/classdata__structures_1_1linked__list_1_1link.html#ac463e24fe774ca2e442801236c01b913":[7,0,2,0,0,0],
-"de/d9d/classdata__structures_1_1linked__list_1_1link.html#adf9c019b6b0b41885e62f2de4458c879":[7,0,2,0,0,1],
 "de/dc3/binaryheap_8cpp.html":[8,0,1,3],
 "de/dc3/binaryheap_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,1,3,1],
 "de/dcf/binary__exponent_8cpp.html":[8,0,7,1],
@@ -234,8 +233,8 @@ var NAVTREEINDEX4 =
 "globals_type.html":[8,1,3],
 "globals_u.html":[8,1,0,20],
 "globals_vars.html":[8,1,2],
-"index.html":[0],
 "index.html":[],
+"index.html":[0],
 "index.html#autotoc_md40":[0,0],
 "index.html#autotoc_md41":[0,1],
 "index.html#autotoc_md42":[0,2],
@@ -245,5 +244,6 @@ var NAVTREEINDEX4 =
 "namespacemembers_func.html":[6,1,1],
 "namespacemembers_vars.html":[6,1,2],
 "namespaces.html":[6,0],
-"pages.html":[]
+"pages.html":[],
+"":[7,0,2,0]
 };
