@@ -12,7 +12,7 @@ var searchData=
   ['scanf_3684',['scanf',['http://en.cppreference.com/w/cpp/io/c/fscanf.html',0,'std']]],
   ['scientific_3685',['scientific',['http://en.cppreference.com/w/cpp/io/manip/fixed.html',0,'std']]],
   ['scoped_5fallocator_5fadaptor_3686',['scoped_allocator_adaptor',['http://en.cppreference.com/w/cpp/memory/scoped_allocator_adaptor/scoped_allocator_adaptor.html',0,'std::scoped_allocator_adaptor']]],
-  ['search_3687',['search',['../d1/def/classdata__structures_1_1linked__list_1_1list.html#ae56e9e6bb15874f0f780fe84731a8ae6',1,'data_structures::linked_list::list::search()'],['../dd/d2f/class_trie.html#a411e77126930a0942dd7b65e96b15206',1,'Trie::search()'],['http://en.cppreference.com/w/cpp/algorithm/search.html',0,'std::search()']]],
+  ['search_3687',['search',['../d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8d49c0cde7abe4283cb0a4dbe14c618',1,'data_structures::linked_list::list::search()'],['../dd/d2f/class_trie.html#a411e77126930a0942dd7b65e96b15206',1,'Trie::search()'],['http://en.cppreference.com/w/cpp/algorithm/search.html',0,'std::search()']]],
   ['search_5fn_3688',['search_n',['http://en.cppreference.com/w/cpp/algorithm/search_n.html',0,'std']]],
   ['searchelement_3689',['searchElement',['../d1/d46/classdata__structure_1_1_skip_list.html#a7cda6370f8bd2b6d1db28bd5ca586a21',1,'data_structure::SkipList']]],
   ['searchingprober_3690',['searchingProber',['../d0/d65/namespacedouble__hashing.html#a29f543e2626bad58907661e1e45028a6',1,'double_hashing::searchingProber()'],['../d8/d89/namespacelinear__probing.html#a942fc8407b8001890ea26830cdcd9d77',1,'linear_probing::searchingProber()'],['../d4/dd2/namespacequadratic__probing.html#aeb6bca8db4768226f8ea8291ea4f83f6',1,'quadratic_probing::searchingProber()']]],

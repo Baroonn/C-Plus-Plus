@@ -1,6 +1,5 @@
 var NAVTREEINDEX0 =
 {
-"":[7,0,2,0],
 "annotated.html":[7,0],
 "classes.html":[7,1],
 "d0/d01/smallest__circle_8cpp.html":[8,0,9,11],
@@ -116,9 +115,9 @@ var NAVTREEINDEX0 =
 "d1/def/classdata__structures_1_1linked__list_1_1list.html#aa3801cea564a3b3bb7b03abfffdcf1e1":[7,0,2,0,1,8],
 "d1/def/classdata__structures_1_1linked__list_1_1list.html#abf7c97616b873ffeebdd0eac2d19d13e":[7,0,2,0,1,1],
 "d1/def/classdata__structures_1_1linked__list_1_1list.html#ad585670a392c7e842c992d088093dff5":[7,0,2,0,1,4],
-"d1/def/classdata__structures_1_1linked__list_1_1list.html#ae56e9e6bb15874f0f780fe84731a8ae6":[7,0,2,0,1,7],
 "d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8424a4fce3d483f7c85d6f6a5c79a1a":[7,0,2,0,1,3],
 "d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8a5aa5c6dbbc5b882030b52619dd1a3":[7,0,2,0,1,9],
+"d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8d49c0cde7abe4283cb0a4dbe14c618":[7,0,2,0,1,7],
 "d1/def/classdata__structures_1_1linked__list_1_1list.html#af0981944884c6dc19361ff67451261c9":[7,0,2,0,1,6],
 "d1/df3/hash__search_8cpp.html":[8,0,12,3],
 "d1/df3/hash__search_8cpp.html#a36ea13c16028f18ef2d5ff47f3fda7a2":[8,0,12,3,7],
@@ -249,5 +248,6 @@ var NAVTREEINDEX0 =
 "d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,11,2],
 "d4/d39/group__open__addressing.html":[5,0],
 "d4/d45/gcd__recursive__euclidean_8cpp.html":[8,0,7,15],
-"d4/d45/gcd__recursive__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e":[8,0,7,15,0]
+"d4/d45/gcd__recursive__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e":[8,0,7,15,0],
+"d4/d45/gcd__recursive__euclidean_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,15,1]
 };

@@ -53,64 +53,64 @@
 <g id="node5" class="node">
 <title>Node5</title>
 <g id="a_node5"><a xlink:href="../../d1/def/classdata__structures_1_1linked__list_1_1list.html#a1fb1792ab867dc26639eef368a56989e" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="74,-137 74,-167 190,-167 190,-137 74,-137"/>
-<text text-anchor="start" x="82" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::linked</text>
-<text text-anchor="middle" x="132" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">_list::list::erase</text>
+<polygon fill="white" stroke="black" points="74,-39 74,-69 190,-69 190,-39 74,-39"/>
+<text text-anchor="start" x="82" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::linked</text>
+<text text-anchor="middle" x="132" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">_list::list::erase</text>
 </a>
 </g>
 </g>
 <!-- Node1&#45;&gt;Node5 -->
 <g id="edge4" class="edge">
 <title>Node1&#45;&gt;Node5</title>
-<path fill="none" stroke="midnightblue" d="M38.33,-131.13C45.64,-132.78 54.55,-134.78 63.91,-136.89"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="63.27,-140.33 73.79,-139.12 64.81,-133.5 63.27,-140.33"/>
+<path fill="none" stroke="midnightblue" d="M28.76,-117.28C38.84,-106.55 56.28,-89.3 74,-78 76.3,-76.53 78.7,-75.12 81.16,-73.77"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="82.95,-76.79 90.27,-69.14 79.77,-70.55 82.95,-76.79"/>
 </g>
-<!-- Node6 -->
-<g id="node6" class="node">
-<title>Node6</title>
-<g id="a_node6"><a xlink:href="../../d1/def/classdata__structures_1_1linked__list_1_1list.html#ad585670a392c7e842c992d088093dff5" target="_top" xlink:title=" ">
+<!-- Node7 -->
+<g id="node7" class="node">
+<title>Node7</title>
+<g id="a_node7"><a xlink:href="../../d1/def/classdata__structures_1_1linked__list_1_1list.html#ad585670a392c7e842c992d088093dff5" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="74,-88 74,-118 190,-118 190,-88 74,-88"/>
 <text text-anchor="start" x="82" y="-106" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::linked</text>
 <text text-anchor="middle" x="132" y="-95" font-family="Helvetica,sans-Serif" font-size="10.00">_list::list::push_back</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node6 -->
-<g id="edge6" class="edge">
-<title>Node1&#45;&gt;Node6</title>
-<path fill="none" stroke="midnightblue" d="M38.33,-123.04C45.64,-121.46 54.55,-119.53 63.91,-117.51"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="64.76,-120.9 73.79,-115.37 63.28,-114.06 64.76,-120.9"/>
-</g>
-<!-- Node7 -->
-<g id="node7" class="node">
-<title>Node7</title>
-<g id="a_node7"><a xlink:href="../../d1/def/classdata__structures_1_1linked__list_1_1list.html#ae56e9e6bb15874f0f780fe84731a8ae6" target="_top" xlink:title=" ">
-<polygon fill="white" stroke="black" points="74,-39 74,-69 190,-69 190,-39 74,-39"/>
-<text text-anchor="start" x="82" y="-57" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::linked</text>
-<text text-anchor="middle" x="132" y="-46" font-family="Helvetica,sans-Serif" font-size="10.00">_list::list::search</text>
-</a>
-</g>
-</g>
 <!-- Node1&#45;&gt;Node7 -->
 <g id="edge7" class="edge">
 <title>Node1&#45;&gt;Node7</title>
-<path fill="none" stroke="midnightblue" d="M29.2,-117.16C39.39,-106.68 56.68,-90.1 74,-79 76.91,-77.14 79.98,-75.35 83.13,-73.64"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="84.79,-76.73 92.13,-69.08 81.63,-70.48 84.79,-76.73"/>
+<path fill="none" stroke="midnightblue" d="M38.33,-123.04C45.64,-121.46 54.55,-119.53 63.91,-117.51"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="64.76,-120.9 73.79,-115.37 63.28,-114.06 64.76,-120.9"/>
 </g>
 <!-- Node8 -->
 <g id="node8" class="node">
 <title>Node8</title>
-<g id="a_node8"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/string/basic_string/stol.html#" target="_top" xlink:title=" ">
+<g id="a_node8"><a xlink:href="../../d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8d49c0cde7abe4283cb0a4dbe14c618" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="74,-137 74,-167 190,-167 190,-137 74,-137"/>
+<text text-anchor="start" x="82" y="-155" font-family="Helvetica,sans-Serif" font-size="10.00">data_structures::linked</text>
+<text text-anchor="middle" x="132" y="-144" font-family="Helvetica,sans-Serif" font-size="10.00">_list::list::search</text>
+</a>
+</g>
+</g>
+<!-- Node1&#45;&gt;Node8 -->
+<g id="edge8" class="edge">
+<title>Node1&#45;&gt;Node8</title>
+<path fill="none" stroke="midnightblue" d="M38.33,-131.13C45.64,-132.78 54.55,-134.78 63.91,-136.89"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="63.27,-140.33 73.79,-139.12 64.81,-133.5 63.27,-140.33"/>
+</g>
+<!-- Node9 -->
+<g id="node9" class="node">
+<title>Node9</title>
+<g id="a_node9"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/string/basic_string/stol.html#" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="106,-0.5 106,-19.5 158,-19.5 158,-0.5 106,-0.5"/>
 <text text-anchor="middle" x="132" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::stoi</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node8 -->
-<g id="edge9" class="edge">
-<title>Node1&#45;&gt;Node8</title>
-<path fill="none" stroke="midnightblue" d="M22.84,-117.23C28.97,-97.82 45.26,-54.22 74,-30 80.44,-24.57 88.46,-20.58 96.42,-17.66"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="97.53,-20.98 106,-14.6 95.41,-14.31 97.53,-20.98"/>
+<!-- Node1&#45;&gt;Node9 -->
+<g id="edge10" class="edge">
+<title>Node1&#45;&gt;Node9</title>
+<path fill="none" stroke="midnightblue" d="M22.69,-117.39C28.63,-97.87 44.74,-53.37 74,-29 80.44,-23.64 88.45,-19.77 96.41,-16.99"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="97.43,-20.34 105.99,-14.1 95.41,-13.63 97.43,-20.34"/>
 </g>
 <!-- Node3 -->
 <g id="node3" class="node">
@@ -131,14 +131,29 @@
 <!-- Node5&#45;&gt;Node3 -->
 <g id="edge5" class="edge">
 <title>Node5&#45;&gt;Node3</title>
+<path fill="none" stroke="midnightblue" d="M172.63,-69.02C178.59,-71.75 184.55,-74.77 190,-78 215.24,-92.97 241.14,-114.14 259.17,-130.01"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="257.09,-132.84 266.88,-136.89 261.75,-127.62 257.09,-132.84"/>
+</g>
+<!-- Node6 -->
+<g id="node6" class="node">
+<title>Node6</title>
+<g id="a_node6"><a target="_blank" xlink:href="http://en.cppreference.com/w/cpp/memory/shared_ptr/reset.html#" target="_top" xlink:title=" ">
+<polygon fill="white" stroke="black" points="229,-44.5 229,-63.5 339,-63.5 339,-44.5 229,-44.5"/>
+<text text-anchor="middle" x="284" y="-51.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::shared_ptr::reset</text>
+</a>
+</g>
+</g>
+<!-- Node5&#45;&gt;Node6 -->
+<g id="edge6" class="edge">
+<title>Node5&#45;&gt;Node6</title>
+<path fill="none" stroke="midnightblue" d="M190.14,-54C199.5,-54 209.26,-54 218.78,-54"/>
+<polygon fill="midnightblue" stroke="midnightblue" points="218.99,-57.5 228.99,-54 218.99,-50.5 218.99,-57.5"/>
+</g>
+<!-- Node8&#45;&gt;Node3 -->
+<g id="edge9" class="edge">
+<title>Node8&#45;&gt;Node3</title>
 <path fill="none" stroke="midnightblue" d="M190.14,-152C198.38,-152 206.92,-152 215.34,-152"/>
 <polygon fill="midnightblue" stroke="midnightblue" points="215.53,-155.5 225.53,-152 215.53,-148.5 215.53,-155.5"/>
-</g>
-<!-- Node7&#45;&gt;Node3 -->
-<g id="edge8" class="edge">
-<title>Node7&#45;&gt;Node3</title>
-<path fill="none" stroke="midnightblue" d="M171.08,-69.1C177.54,-72.11 184.07,-75.45 190,-79 214.89,-93.9 240.65,-114.6 258.73,-130.16"/>
-<polygon fill="midnightblue" stroke="midnightblue" points="256.63,-132.97 266.46,-136.9 261.23,-127.69 256.63,-132.97"/>
 </g>
 </g>
 </svg>
