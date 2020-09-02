@@ -1,5 +1,8 @@
 var NAVTREEINDEX2 =
 {
+"d6/d80/double__hash__hash__table_8cpp.html#ae5d042a7f6038a2ec9e5718d0c7fb31f":[8,0,5,1,15],
+"d6/d80/double__hash__hash__table_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,5,1,7],
+"d6/d80/double__hash__hash__table_8cpp.html#af4981819aae8bc7e7beeaef02615e30d":[8,0,5,1,10],
 "d6/d9d/large__factorial_8cpp.html":[8,0,7,16],
 "d6/d9d/large__factorial_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97":[8,0,7,16,0],
 "d6/d9d/large__factorial_8cpp.html#a3f93b60e229b6683e24c4754a7106ee8":[8,0,7,16,1],
@@ -121,8 +124,8 @@ var NAVTREEINDEX2 =
 "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,20,2],
 "d8/d6c/line__segment__intersection_8cpp.html":[8,0,2,0],
 "d8/d6c/line__segment__intersection_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,2,0,2],
-"d8/d77/namespacemachine__learning.html":[7,0,5],
 "d8/d77/namespacemachine__learning.html":[6,0,7],
+"d8/d77/namespacemachine__learning.html":[7,0,5],
 "d8/d89/namespacelinear__probing.html":[7,0,4],
 "d8/d89/namespacelinear__probing.html":[6,0,5],
 "d8/d8a/exponential__search_8cpp.html":[8,0,12,1],
@@ -194,8 +197,8 @@ var NAVTREEINDEX2 =
 "d9/d5d/extended__euclid__algorithm_8cpp.html#acba15ca55b3e7dcb91f3c65d72ba052d":[8,0,7,7,0],
 "d9/d5d/extended__euclid__algorithm_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,7,2],
 "d9/d66/group__machine__learning.html":[5,1],
-"d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[5,1,8],
 "d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[8,0,6,0,5],
+"d9/d66/group__machine__learning.html#ga5118e5cbc4f0886e27b3a7a2544dded1":[5,1,8],
 "d9/d66/group__machine__learning.html#ga525335710b53cb064ca56b936120431e":[8,0,6,1,0],
 "d9/d66/group__machine__learning.html#ga525335710b53cb064ca56b936120431e":[8,0,6,2,0],
 "d9/d66/group__machine__learning.html#ga6c606bc85a3e9fd9d010f874ad760336":[8,0,6,1,6],
@@ -246,8 +249,5 @@ var NAVTREEINDEX2 =
 "da/d24/sqrt__double_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,28,0],
 "da/d5a/class_complex.html":[7,0,11],
 "da/d5a/class_complex.html#a312e4b19146128408fb06e0150b0faf6":[7,0,11,11],
-"da/d5a/class_complex.html#a36739619a07b5478bcd8a28ad2f8b7da":[7,0,11,7],
-"da/d5a/class_complex.html#a3cfc522c782726f49ee20af17b77f867":[7,0,11,0],
-"da/d5a/class_complex.html#a466cd7b664cc6a864937ceb3dead1323":[7,0,11,1],
-"da/d5a/class_complex.html#a776d595d5a1b576e9136cbc6bac0589c":[7,0,11,12]
+"da/d5a/class_complex.html#a36739619a07b5478bcd8a28ad2f8b7da":[7,0,11,7]
 };

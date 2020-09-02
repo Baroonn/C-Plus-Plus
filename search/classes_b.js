@@ -7,7 +7,7 @@ var searchData=
   ['less_2243',['less',['http://en.cppreference.com/w/cpp/utility/functional/less.html',0,'std']]],
   ['less_5fequal_2244',['less_equal',['http://en.cppreference.com/w/cpp/utility/functional/less_equal.html',0,'std']]],
   ['linear_5fcongruential_5fengine_2245',['linear_congruential_engine',['http://en.cppreference.com/w/cpp/numeric/random/linear_congruential_engine.html',0,'std']]],
-  ['link_2246',['link',['../de/d9d/classdata__structures_1_1linked__list_1_1link.html',1,'data_structures::linked_list']]],
+  ['link_2246',['link',['../d5/d5d/structdata__structures_1_1linked__list_1_1link.html',1,'data_structures::linked_list']]],
   ['linkedlist_2247',['linkedlist',['../d0/dff/structlinkedlist.html',1,'']]],
   ['list_2248',['list',['../d8/d10/structlist.html',1,'list'],['../d1/def/classdata__structures_1_1linked__list_1_1list.html',1,'data_structures::linked_list::list'],['http://en.cppreference.com/w/cpp/container/list.html',0,'std::list&lt; T &gt;']]],
   ['list_3c_20int_20_3e_2249',['list&lt; int &gt;',['../d8/d10/structlist.html',1,'']]],
