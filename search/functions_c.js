@@ -17,7 +17,7 @@ var searchData=
   ['linear_5fcongruential_5fengine_3305',['linear_congruential_engine',['http://en.cppreference.com/w/cpp/numeric/random/linear_congruential_engine/linear_congruential_engine.html',0,'std::linear_congruential_engine']]],
   ['linearprobe_3306',['linearProbe',['../d8/d89/namespacelinear__probing.html#a6322209aaa91b7bbf16f96e1cc52b746',1,'linear_probing']]],
   ['linearsearch_3307',['LinearSearch',['../d9/d02/linear__search_8cpp.html#a84ac3988a534eb60ca351ed6caf56d84',1,'linear_search.cpp']]],
-  ['link_3308',['link',['../de/d9d/classdata__structures_1_1linked__list_1_1link.html#a36faf299f5fb712751c72cd5f602c19c',1,'data_structures::linked_list::link']]],
+  ['link_3308',['link',['../de/d9d/classdata__structures_1_1linked__list_1_1link.html#aba4672fbc40c38962d1510b843a577bb',1,'data_structures::linked_list::link']]],
   ['list_3309',['list',['http://en.cppreference.com/w/cpp/container/list/list.html',0,'std::list::list()'],['../d1/def/classdata__structures_1_1linked__list_1_1list.html#a50e209b55b83622254177050945e7826',1,'data_structures::linked_list::list::list()']]],
   ['llabs_3310',['llabs',['http://en.cppreference.com/w/cpp/numeric/math/abs.html',0,'std']]],
   ['llrint_3311',['llrint',['http://en.cppreference.com/w/cpp/numeric/math/rint.html',0,'std']]],

@@ -110,8 +110,8 @@ Collaboration diagram for data_structures::linked_list::link:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:acf96f3a9a1d3b15268c38e8822300c11"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#acf96f3a9a1d3b15268c38e8822300c11">val</a> ()</td></tr>
 <tr class="separator:acf96f3a9a1d3b15268c38e8822300c11"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a36faf299f5fb712751c72cd5f602c19c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#a36faf299f5fb712751c72cd5f602c19c">link</a> (int value=0, <a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/memory/shared_ptr.html">std::shared_ptr</a>&lt; <a class="el" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html">link</a> &gt; &amp;next=nullptr)</td></tr>
-<tr class="separator:a36faf299f5fb712751c72cd5f602c19c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aba4672fbc40c38962d1510b843a577bb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#aba4672fbc40c38962d1510b843a577bb">link</a> (int value=0)</td></tr>
+<tr class="separator:aba4672fbc40c38962d1510b843a577bb"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
@@ -130,8 +130,8 @@ int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../..
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>
 <div class="textblock"><p>A link class containing a value and pointer to another link </p>
 </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a36faf299f5fb712751c72cd5f602c19c"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a36faf299f5fb712751c72cd5f602c19c">&#9670;&nbsp;</a></span>link()</h2>
+<a id="aba4672fbc40c38962d1510b843a577bb"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aba4672fbc40c38962d1510b843a577bb">&#9670;&nbsp;</a></span>link()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -143,18 +143,8 @@ int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../..
           <td class="memname">data_structures::linked_list::link::link </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
-          <td class="paramname"><em>value</em> = <code>0</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"><em>value</em> = <code>0</code></td><td>)</td>
           <td></td>
-          <td class="paramtype"><a class="elRef" target="_blank" href="http://en.cppreference.com/w/cpp/memory/shared_ptr.html">std::shared_ptr</a>&lt; <a class="el" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html">link</a> &gt; &amp;&#160;</td>
-          <td class="paramname"><em>next</em> = <code>nullptr</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
   </td>
@@ -166,11 +156,12 @@ int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../..
 <p>Creates link with provided value and pointer to next link </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">value</td><td>is the integer stored in the link </td></tr>
-    <tr><td class="paramname">next</td><td>is the pointer to the next link </td></tr>
   </table>
   </dd>
 </dl>
-<div class="fragment"><div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;        :<a class="code" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#ac121ce37b6ea864b160ebcada0bce936">pvalue</a>(value), <a class="code" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#a7bc8fdd30ee0bd3dd3ee021479323c3f">succ</a>(next) {}</div>
+<div class="fragment"><div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160;        :<a class="code" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#ac121ce37b6ea864b160ebcada0bce936">pvalue</a>(value){</div>
+<div class="line"><a name="l00073"></a><span class="lineno">   73</span>&#160;            <a class="code" href="../../de/d9d/classdata__structures_1_1linked__list_1_1link.html#a7bc8fdd30ee0bd3dd3ee021479323c3f">succ</a> = <span class="keyword">nullptr</span>;</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;        }</div>
 </div><!-- fragment -->
 </div>
 </div>
