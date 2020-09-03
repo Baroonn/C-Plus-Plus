@@ -31,7 +31,7 @@ var searchData=
   ['linear_5fsearch_2ecpp_896',['linear_search.cpp',['../d9/d02/linear__search_8cpp.html',1,'']]],
   ['linearprobe_897',['linearProbe',['../d8/d89/namespacelinear__probing.html#a6322209aaa91b7bbf16f96e1cc52b746',1,'linear_probing']]],
   ['linearsearch_898',['LinearSearch',['../d9/d02/linear__search_8cpp.html#a84ac3988a534eb60ca351ed6caf56d84',1,'linear_search.cpp']]],
-  ['link_899',['link',['../d5/d5d/structdata__structures_1_1linked__list_1_1link.html',1,'data_structures::linked_list::link'],['../d5/d5d/structdata__structures_1_1linked__list_1_1link.html#a6e3d3dadebaa8b4804629d5a53fcaabc',1,'data_structures::linked_list::link::link()'],['../d1/df3/hash__search_8cpp.html#ad6fcd983304f85afa199d97a9b0ca9f6',1,'link():&#160;hash_search.cpp']]],
+  ['link_899',['link',['../de/d9d/classdata__structures_1_1linked__list_1_1link.html',1,'data_structures::linked_list::link'],['../de/d9d/classdata__structures_1_1linked__list_1_1link.html#a6e3d3dadebaa8b4804629d5a53fcaabc',1,'data_structures::linked_list::link::link()'],['../d1/df3/hash__search_8cpp.html#ad6fcd983304f85afa199d97a9b0ca9f6',1,'link():&#160;hash_search.cpp']]],
   ['linked_5flist_900',['linked_list',['../d3/db0/namespacelinked__list.html',1,'']]],
   ['linked_5flist_2ecpp_901',['linked_list.cpp',['../da/dc3/linked__list_8cpp.html',1,'']]],
   ['linkedlist_902',['linkedlist',['../d0/dff/structlinkedlist.html',1,'']]],

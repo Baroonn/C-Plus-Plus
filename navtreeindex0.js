@@ -1,5 +1,6 @@
 var NAVTREEINDEX0 =
 {
+"":[7,0,2,0],
 "annotated.html":[7,0],
 "classes.html":[7,1],
 "d0/d01/smallest__circle_8cpp.html":[8,0,9,11],
@@ -18,8 +19,8 @@ var NAVTREEINDEX0 =
 "d0/d5a/skip__list_8cpp.html#a039855c4d1684de1fec104057df9f26d":[8,0,1,10,3],
 "d0/d5a/skip__list_8cpp.html#a38234f668624bca86341240f34a95193":[8,0,1,10,4],
 "d0/d5a/skip__list_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,1,10,2],
-"d0/d65/namespacedouble__hashing.html":[6,0,4],
 "d0/d65/namespacedouble__hashing.html":[7,0,3],
+"d0/d65/namespacedouble__hashing.html":[6,0,4],
 "d0/da2/number__of__positive__divisors_8cpp.html":[8,0,7,21],
 "d0/da2/number__of__positive__divisors_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[8,0,7,21,2],
 "d0/da2/number__of__positive__divisors_8cpp.html#ad89ccced8504b5116046cfa03066ffeb":[8,0,7,21,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "d4/d32/fibonacci__fast_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,11,2],
 "d4/d39/group__open__addressing.html":[5,0],
 "d4/d45/gcd__recursive__euclidean_8cpp.html":[8,0,7,15],
-"d4/d45/gcd__recursive__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e":[8,0,7,15,0],
-"d4/d45/gcd__recursive__euclidean_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[8,0,7,15,1]
+"d4/d45/gcd__recursive__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e":[8,0,7,15,0]
 };
